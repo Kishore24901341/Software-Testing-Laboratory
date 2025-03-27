@@ -17,7 +17,7 @@ Algorithm:
 6. Stop the program.
 ### Program:
 
-![Screenshot 2025-03-27 084619](https://github.com/user-attachments/assets/d499faa1-5f55-4e69-977c-1fa58cd6dd1b)
+![image](https://github.com/user-attachments/assets/ef0a7a5a-d2c0-4e9e-9618-d699771da27f)
 
 
 
