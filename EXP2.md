@@ -1,7 +1,7 @@
 # Ex.No: 2   Matrix Multiplication 
 
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE:27:03:2025                                                                            
+### REGISTER NUMBER :212224240077 
 
 ### AIM: 
 Write a python program for matrix multiplication and inspect for failures.
@@ -17,6 +17,8 @@ Algorithm:
 6. Stop the program.
 ### Program:
 
+![Screenshot 2025-03-27 084619](https://github.com/user-attachments/assets/d499faa1-5f55-4e69-977c-1fa58cd6dd1b)
+
 
 
 
@@ -31,6 +33,7 @@ Algorithm:
 
 ### Output:
 
+![Screenshot 2025-03-27 084607](https://github.com/user-attachments/assets/e54679cb-add0-4296-8d00-bb2a543561c7)
 
 
 
