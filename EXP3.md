@@ -31,7 +31,7 @@ Write a python program to check the number is prime or not and inspect for failu
 
 
 ### Output:
-![image](https://github.com/user-attachments/assets/d3bb532c-0e65-4ed6-90c6-0a549e577ef0)
+![image](https://github.com/user-attachments/assets/c3a85dd9-9047-4ffe-9066-3fbee8c2e23e)
 
 
 
