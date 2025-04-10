@@ -16,6 +16,7 @@ Write a python program to check the number is prime or not and inspect for failu
 8. Stop the program.
 
 ### Program:
+![image](https://github.com/user-attachments/assets/d4a00767-0c3f-475f-9cf2-6b9b33641fcb)
 
 
 
@@ -30,7 +31,7 @@ Write a python program to check the number is prime or not and inspect for failu
 
 
 ### Output:
-
+![image](https://github.com/user-attachments/assets/d3bb532c-0e65-4ed6-90c6-0a549e577ef0)
 
 
 
